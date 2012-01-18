@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ANML Blog]]></title>
+  <link href="http://agileanimal.github.com/atom.xml" rel="self"/>
+  <link href="http://agileanimal.github.com/"/>
+  <updated>2012-01-18T00:30:14-07:00</updated>
+  <id>http://agileanimal.github.com/</id>
+  <author>
+    <name><![CDATA[Mark Madsen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing Roam Mobility']]></title>
+    <link href="http://agileanimal.github.com/blog/2012/01/17/blawgin/"/>
+    <updated>2012-01-17T17:18:00-07:00</updated>
+    <id>http://agileanimal.github.com/blog/2012/01/17/blawgin</id>
+    <content type="html"><![CDATA[<h2>Finally, a great way to <a href="http://www.roammobility.com/">Roam</a>.</h2>
+
+<p>This really is the best idea I&#8217;ve heard in a long time.</p>
+
+<p><a href="http://www.roammobility.com/">Roam Mobility</a> is an operator that provides Canadians with a pay-as-you-go US phone number. They are really reasonably priced and you only need to use the service once a year to maintain your US number.</p>
+
+<p>I was travelling in the US recently and Having this service would have saved me about $50 &#8211; that is just one trip. If you are a frequent traveller you should look into both their data and voice services.</p>
+
+<p>I&#8217;ve read some comments in forums where people are questioning the value provided by the service and instead suggest that you&#8217;re better off dealing directly with US Carriers. I have used pay-as-you-go services from AT&amp;T and T-Mobile &#8211; I think Roam is providing a much simpler and more cost effective way in the long run.  On my last trip I even tried to get Verizon to Activate a &#8220;Verizon Jetpack&#8221; for me &#8211; they couldn&#8217;t do it because their 4G network is only available on contract.</p>
+
+<p>Just a word to the wise, their partner is T-Mobile &#8211; this means you need a phone with AWS to get 3G/3.5G/3.667G/3.9999G/4.01G/etc. Your iPhone will roam on their Edge network but it will be slow. You should pick up a Nexus S with AWS (they go for about $350 these days but DO NOT have Rogers/Bell/Telus 3G) or a Galaxy Nexus (double the price at around $700 but works with everyone&#8217;s 3G) if you are looking for a phone to use.</p>
+]]></content>
+  </entry>
+  
+</feed>
